@@ -1,1 +1,3 @@
-print ('blablub tester a')
+def print_something():
+
+    print ('blablub tester a')
