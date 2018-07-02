@@ -1,0 +1,6 @@
+git init
+git add notes
+git commit -m 'adding notes'
+
+git remote add origin https://github.com/marektdu/tdu_test.git
+git push -u origin master
