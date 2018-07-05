@@ -1,5 +1,7 @@
 import bla
 
+print ('something else')
+
 def main():
     bla.print_something()
 
