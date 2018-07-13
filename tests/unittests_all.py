@@ -15,3 +15,15 @@ from sample import bla
 
 bla.print_something()
        
+# Restaurant
+
+### santity checks
+## test for name
+## test for adtres
+## test for coords
+
+# test get_cords
+## test sufficant coordinates
+## test coordinates with illeagal values
+
+# more stuff
